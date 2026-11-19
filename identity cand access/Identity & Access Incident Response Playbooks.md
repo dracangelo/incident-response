@@ -1058,3 +1058,5 @@ Keep a printed and offline copy. Test the break-glass account procedure at least
 | Unexpected admin role change | Verify out-of-band, remove role, disable identities, check for secondary persistence, protect break-glass |
 | Impossible travel alert | Test benign causes, call user out-of-band, check post-login activity, then dismiss or contain |
 | Unsure about severity | Treat one level higher; downgrade with evidence |
+
+
